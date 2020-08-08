@@ -1,12 +1,12 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jerrykim91)](https://hits.seeyoufarm.com)        
-
 ## Hyowon Kim(JERRY) :blush: [:mailbox_with_no_mail:](mailto:jerrykim91.pub@gmail.com)	
+
+<a href="https://hits.seeyoufarm.com">
+	<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jerrykim91"/></a> 
 
 ### Interest&#128516;
 
-+ :computer: Python 
-+ :book: Data Analysis and Visualization
-+ :pencil2: Machine Learning and Deep Learning
++ :book: Data Analysis and Visualization <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>   
++ :pencil2: Machine Learning and Deep Learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>   
 
 ### Channel&#128526;
 
@@ -43,12 +43,22 @@ https://www.tablesgenerator.com/markdown_tables
 https://fernando.kr/develop/2020-05-02-github-gist-posting/
 이모지 : https://kr.piliapp.com/twitter-symbols/, https://www.webfx.com/tools/emoji-cheat-sheet/
 HTML : https://wikidocs.net/10550#_2
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerrykim91&repo=test" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerrykim91&repo=jerrykim91.github.io" />
+</a>
+
 -->
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykim91&layout=compact" />
+</a>
 
-
-<br>
-
-<span>[![jerrykim91's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykim91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![jerrykim91's github stats](https://github-readme-stats.vercel.app/api?username=jerrykim91&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</span>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jerrykim91&show_icons=true" alt="jerrykim91's github stats" />
+</a>
 
 
