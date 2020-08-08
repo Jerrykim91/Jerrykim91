@@ -1,10 +1,9 @@
 ## Hi there 👋 I'm JERRY :kr: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jerrykim91)](https://hits.seeyoufarm.com)                           
 <br>
 
-<span>
-[![jerrykim91's github stats](https://github-readme-stats.vercel.app/api?username=jerrykim91&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![jerrykim91's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykim91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</span>
+<span>[![jerrykim91's github stats](https://github-readme-stats.vercel.app/api?username=jerrykim91&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+	
+[![jerrykim91's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykim91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
 
 
 <br>
