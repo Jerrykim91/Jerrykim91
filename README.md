@@ -51,6 +51,6 @@ HTML : https://wikidocs.net/10550#_2
 ---
 
 <br>
-<span>[![jerrykim91's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykim91&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![jerrykim91's github stats](https://github-readme-stats.vercel.app/api?username=jerrykim91&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</span>
+<span>[![jerrykim91's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykim91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![jerrykim91's github stats](https://github-readme-stats.vercel.app/api?username=jerrykim91&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</span>
 
 
