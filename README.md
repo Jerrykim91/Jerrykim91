@@ -1,22 +1,19 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jerrykim91)](https://hits.seeyoufarm.com)        
 
-## Hi I'm JERRY :blush: 
+## Hyowon Kim(JERRY) :blush: [:mailbox_with_no_mail:](mailto:jerrykim91.pub@gmail.com)	
 
-### Interest
+### Interest&#128516;
 
-+ :computer: Main Language => Python , R
++ :computer: Python 
 + :book: Data Analysis and Visualization
 + :pencil2: Machine Learning and Deep Learning
 
-### Info 
-
-+ Name     : HYOWON KIM(JERRY KIM)
-+ Contact  : [:mailbox_with_no_mail: Email](mailto:jerrykim91.pub@gmail.com)	
-
-### Channel  
+### Channel&#128526;
 
 + [Portfolio - 진행중](https://jerrykim91.pythonanywhere.com/)
 + [Blog](https://velog.io/@jerrykim91)
+
+
 
 <!--
 **Jerrykim91/Jerrykim91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
