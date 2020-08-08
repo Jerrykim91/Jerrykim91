@@ -8,14 +8,14 @@
 + :book: Data Analysis and Visualization <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>   
 + :pencil2: Machine Learning and Deep Learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>   
 
+
+<!--
+
 ### Channel&#128526;
 
 + [Portfolio - 진행중](https://jerrykim91.pythonanywhere.com/)
 + [Blog](https://velog.io/@jerrykim91)
 
-
-
-<!--
 **Jerrykim91/Jerrykim91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=주소)](주소)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=주소)](주소)
