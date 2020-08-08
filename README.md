@@ -1,17 +1,11 @@
-## Hi I'm JERRY [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jerrykim91)](https://hits.seeyoufarm.com)                           
-<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jerrykim91)](https://hits.seeyoufarm.com)        
 
-<span>[![jerrykim91's github stats](https://github-readme-stats.vercel.app/api?username=jerrykim91&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![jerrykim91's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykim91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
-
-
+## Hi I'm JERRY :blush: 
 <br>
 
 ### Interest
 
-+ :computer: Main Language 
-	- Python
-	- R
-	
++ :computer: Main Language => Python , R
 + :book: Data Analysis and Visualization
 + :pencil2: Machine Learning and Deep Learning
 
@@ -20,10 +14,8 @@
 ### Info 
 
 + Name     : HYOWON KIM(JERRY KIM)
-+ Country  : :kr:
-+ Contact  
-	- [:mailbox_with_no_mail: Email](mailto:jerrykim91.pub@gmail.com)	
-+ 
++ Contact  : [:mailbox_with_no_mail: Email](mailto:jerrykim91.pub@gmail.com)	
++ Channel  : [Portfolio - 진행중](https://jerrykim91.pythonanywhere.com/), [Blog](https://velog.io/@jerrykim91)
 
 <!--
 **Jerrykim91/Jerrykim91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,7 +44,13 @@ https://hits.seeyoufarm.com/
 https://www.tablesgenerator.com/markdown_tables
 https://www.webfx.com/tools/emoji-cheat-sheet/
 https://fernando.kr/develop/2020-05-02-github-gist-posting/
+
+HTML : https://wikidocs.net/10550#_2
 -->
 
+---
+
+<br>
+<span>[![jerrykim91's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykim91&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![jerrykim91's github stats](https://github-readme-stats.vercel.app/api?username=jerrykim91&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</span>
 
 
