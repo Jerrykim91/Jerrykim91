@@ -1,7 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jerrykim91)](https://hits.seeyoufarm.com)        
 
 ## Hi I'm JERRY :blush: 
-<br>
 
 ### Interest
 
@@ -49,7 +48,7 @@ https://fernando.kr/develop/2020-05-02-github-gist-posting/
 HTML : https://wikidocs.net/10550#_2
 -->
 
----
+
 
 <br>
 
